@@ -5,7 +5,7 @@ Vue Component and composable to query for Web API permission state.
 ## Setup
 
 ```typescript
-import { createVuePermissionStatusPlugin } from 'vue-permission-plugin'
+import { createVuePermissionStatusPlugin } from 'vue-permission-status'
 
 const VuePermissionStatusPlugin = createVuePermissionStatusPlugin()
 
