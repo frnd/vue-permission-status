@@ -1,6 +1,6 @@
 {
   "name": "vue-permission-status",
-  "version": "0.0.1",
+  "version": "0.0.1-RC1",
   "author": {
     "name": "Fernando González",
     "email": "fernando@tuta.io",
@@ -68,5 +68,8 @@
     "@vue/composition-api": {
       "optional": true
     }
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
   }
 }
