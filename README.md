@@ -1,6 +1,10 @@
 # vue-permission-status
 
-Vue Component and composable to query for Web API permission state.
+Vue 2/3 Component and composable to query for Web API permission state.
+
+Example for Vue2: https://codesandbox.io/p/sandbox/vue2-permission-status-example-f67lx5
+
+Example for Vue3: https://codesandbox.io/p/sandbox/vue3-permission-status-example-t8ff49
 
 ## Setup
 
