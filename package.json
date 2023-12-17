@@ -6,6 +6,15 @@
     "email": "fernando@tuta.io",
     "url": "https://frnd.github.io/"
   },
+  "keywords": ["vue", "permissions", "api", "query"],
+  "homepage": "https://github.com/frnd/vue-permission-status/#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/frnd/vue-permission-status.git"
+  },
+  "bugs": {
+    "url": "https://github.com/frnd/vue-permission-status/issues"
+  },
   "files": ["dist"],
   "main": "./dist/vue-permission-status.umd.js",
   "module": "./dist/vue-permission-status.es.js",
